@@ -1,0 +1,11 @@
+{
+  "name": "vue-query-sync",
+  "version": "0.0.1",
+  "description": "Vue plugin for syncing data between views and the URL query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
